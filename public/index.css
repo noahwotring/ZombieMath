@@ -1,0 +1,14 @@
+.bg {
+  position: absolute;
+  background: url('../img/apocbackground.jpg');
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat
+}
+html {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}

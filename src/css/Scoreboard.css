@@ -1,0 +1,13 @@
+table, td, th {
+  border: 1px solid black;
+  border-collapse: separate
+}
+
+th {
+  font-size: 2rem
+}
+
+.sideTable {
+  position: relative;
+  margin-right: 0;
+}
